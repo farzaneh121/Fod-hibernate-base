@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body{
+	background-color: #c5fde8;
+	text-align: center;
+	font-family: fantasy;
+	font-size: 10px;
+	color: #03380e;	
+}
+
+button {
+	background-color: #f7fb86;
+	text-align: center;
+	font-family: fantasy;
+	font-size: 20px;
+	color: #03380e;	
+	width: 30;
+}
+
+table {
+	background-color: #f7fb86;
+	font-family: fantasy;
+	font-size: 20px;
+	color: #03380e;	
+	width: 30pc;
+}
+#mini-table{
+	background-color: #c0ee07;
+	font-family: fantasy;
+	font-size: 20px;
+	color: #03380e;	
+	height:200px;
+	border-bottom-color: dark green;
+	border: medium;
+}
+#error-body{
+	background-color: #000000;
+	font-size: 10px;
+	color: #ffffff;	
+	
+}
+h2{
+	text-align: left;
+	color: #03380e;
+	
+}
+
+
+
